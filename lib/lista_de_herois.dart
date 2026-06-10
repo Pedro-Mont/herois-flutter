@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'data_access_object.dart';
 import 'heroi.dart';
-import 'heroi_card.dart'; // Import do novo componente
-import 'detalhes_heroi.dart'; // Import da tela de detalhes
+import 'heroi_card.dart';
+import 'detalhes_heroi.dart';
 
 class ListaDeHerois extends StatefulWidget {
   const ListaDeHerois({super.key});
